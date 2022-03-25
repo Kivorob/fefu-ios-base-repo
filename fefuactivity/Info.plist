@@ -22,6 +22,10 @@
 	<string>1</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Построение и вывод точек при выполнение активности</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Построение и вывод точек при выполнение активности</string>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
 		<key>UIApplicationSupportsMultipleScenes</key>
